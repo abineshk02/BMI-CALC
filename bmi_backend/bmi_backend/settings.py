@@ -58,7 +58,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173', "https://bmi-calc-abineshs-projects-d40c4fc4.vercel.app", # Add the URL of your frontend application
+    'http://localhost:5173', "https://bmi-calc-gilt.vercel.app", # Add the URL of your frontend application
 ]
 
 ROOT_URLCONF = 'bmi_backend.urls'

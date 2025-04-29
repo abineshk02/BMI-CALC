@@ -1,6 +1,6 @@
 import { GridColDef } from "@mui/x-data-grid";
 
-export const endpoint = "https://bmi-calc-be.vercel.app";
+export const endpoint = "https://bmi-calc-backend.onrender.com";
 
 export const TFStyle = {
   transition: "box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms",
